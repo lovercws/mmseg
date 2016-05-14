@@ -1,0 +1,46 @@
+2016-05-14 17:02:14,451 [main] [com.kingbase.mmseg.Mmseg4jAnalyzerFactory] [INFO] - 中华人民共和国
+ 2016-05-14 17:03:14,068 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - try to load dir=E:\workspaceLucene\mmseg\target\test-classes\mmseg
+ 2016-05-14 17:03:14,159 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - chars loaded time=80ms, line=12638, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\chars.dic
+ 2016-05-14 17:03:14,653 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - words loaded time=491ms, line=149853, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\words.dic
+ 2016-05-14 17:03:14,655 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - load all dic use time=576ms
+ 2016-05-14 17:03:14,657 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - unit loaded time=1ms, line=22, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\units.dic
+ 2016-05-14 17:03:14,730 [main] [com.kingbase.mmseg.Mmseg4jAnalyzerFactory] [INFO] - 中华人民共和国
+ 2016-05-14 17:05:17,463 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - try to load dir=E:\workspaceLucene\mmseg\target\test-classes\mmseg
+ 2016-05-14 17:05:17,570 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - chars loaded time=89ms, line=12638, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\chars.dic
+ 2016-05-14 17:05:18,018 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - words loaded time=445ms, line=149853, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\words.dic
+ 2016-05-14 17:05:18,019 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - load all dic use time=538ms
+ 2016-05-14 17:05:18,022 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - unit loaded time=2ms, line=22, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\units.dic
+ 2016-05-14 17:05:18,090 [main] [com.kingbase.mmseg.Mmseg4jAnalyzerFactory] [INFO] - 中华人民共和国
+ 2016-05-14 17:07:54,967 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - try to load dir=E:\workspaceLucene\mmseg\target\test-classes\mmseg
+ 2016-05-14 17:07:55,040 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - chars loaded time=67ms, line=12638, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\chars.dic
+ 2016-05-14 17:07:55,500 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - words loaded time=458ms, line=149853, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\words.dic
+ 2016-05-14 17:07:55,502 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - load all dic use time=528ms
+ 2016-05-14 17:07:55,505 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - unit loaded time=2ms, line=22, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\units.dic
+ 2016-05-14 17:07:55,766 [main] [com.kingbase.mmseg.Mmseg4jAnalyzerFactory] [INFO] - 中华人民共和国
+ 2016-05-14 17:08:34,874 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - try to load dir=E:\workspaceLucene\mmseg\target\test-classes\mmseg
+ 2016-05-14 17:08:34,946 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - chars loaded time=67ms, line=12638, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\chars.dic
+ 2016-05-14 17:08:35,390 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - words loaded time=441ms, line=149853, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\words.dic
+ 2016-05-14 17:08:35,391 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - load all dic use time=512ms
+ 2016-05-14 17:08:35,393 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - unit loaded time=1ms, line=22, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\units.dic
+ 2016-05-14 17:08:35,634 [main] [com.kingbase.mmseg.Mmseg4jAnalyzerFactory] [INFO] - 中华人民共和国
+ 2016-05-14 17:09:42,153 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - try to load dir=E:\workspaceLucene\mmseg\target\test-classes\mmseg
+ 2016-05-14 17:09:42,258 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - chars loaded time=87ms, line=12638, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\chars.dic
+ 2016-05-14 17:09:42,756 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - words loaded time=495ms, line=149853, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\words.dic
+ 2016-05-14 17:09:42,757 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - load all dic use time=586ms
+ 2016-05-14 17:09:42,759 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - unit loaded time=1ms, line=22, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\units.dic
+ 2016-05-14 17:09:42,912 [main] [com.kingbase.mmseg.Mmseg4jAnalyzerFactory] [INFO] - 中华人民共和国
+ 2016-05-14 17:11:30,845 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - try to load dir=E:\workspaceLucene\mmseg\target\test-classes\mmseg
+ 2016-05-14 17:11:30,911 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - chars loaded time=61ms, line=12638, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\chars.dic
+ 2016-05-14 17:11:31,349 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - words loaded time=436ms, line=149853, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\words.dic
+ 2016-05-14 17:11:31,350 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - load all dic use time=500ms
+ 2016-05-14 17:11:31,352 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - unit loaded time=1ms, line=22, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\units.dic
+ 2016-05-14 17:11:31,617 [main] [com.kingbase.mmseg.Mmseg4jAnalyzerFactory] [INFO] - 中华人民共和国
+ 2016-05-14 17:11:31,619 [main] [com.kingbase.mmseg.Mmseg4jAnalyzerFactory] [INFO] - 万岁
+ 2016-05-14 17:12:01,726 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - try to load dir=E:\workspaceLucene\mmseg\target\test-classes\mmseg
+ 2016-05-14 17:12:01,846 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - chars loaded time=106ms, line=12638, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\chars.dic
+ 2016-05-14 17:12:02,287 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - words loaded time=439ms, line=149853, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\words.dic
+ 2016-05-14 17:12:02,288 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - load all dic use time=548ms
+ 2016-05-14 17:12:02,290 [main] [com.kingbase.mmseg.core.Dictionary] [DEBUG] - unit loaded time=1ms, line=22, on file=E:\workspaceLucene\mmseg\target\test-classes\mmseg\units.dic
+ 2016-05-14 17:12:02,446 [main] [com.kingbase.mmseg.Mmseg4jAnalyzerFactory] [INFO] - 中华人民共和国
+ 2016-05-14 17:12:02,447 [main] [com.kingbase.mmseg.Mmseg4jAnalyzerFactory] [INFO] - 万岁
+ 
